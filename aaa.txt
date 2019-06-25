@@ -1,1 +1,3 @@
-printf { hellow gg}
+printf { hellow gg }
+printf { hi gg }
+printf { test gg }
